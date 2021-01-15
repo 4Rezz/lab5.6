@@ -13,4 +13,4 @@ int main()
 	cout << "c = " << c << endl;
 	system("pause");
 	return 0;
-} 
+}
